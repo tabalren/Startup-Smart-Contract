@@ -4,7 +4,7 @@
 
 This code will create an Ethereum-compatible blockchain to be able to build smart contracts. This will enable your company to automate finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
 
-I have created 3 'ProfitSplitter' contracts desgined to:
+I have created 3 'ProfitSplitter' contracts designed to:
 
 1. Pay employees quickly and easily.
 2. Distribute profits to different tiers of employees.
