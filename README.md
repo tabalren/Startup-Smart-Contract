@@ -16,17 +16,14 @@ This contract is designed to accept Ether into the contract and divide the Ether
 
 Refer to the AssociateProfitSplitter.sol file for the detailed code.
 
-When deploying the contract in Remix, deploy the contract to your local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545.
-
-![]
+When deploying the contract in Remix, deploy the contract to your local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545. See screenshot below with code in Remix and Metamask window open on the right.
 
 You will need to fill in the constructor parameters with your designated employee addresses.
 
-![]
+![](Images/Contract1.png)
 
 Test the deposit function by sending various values. Keep an eye on the employee balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-![]
 
 
 ## Contract 2 - Tiered Profit Splitter Contract
