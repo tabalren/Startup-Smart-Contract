@@ -8,7 +8,6 @@ I have created 2 'Profit Splitter' contracts designed to:
 
 1. Pay employees quickly and easily.
 2. Distribute profits to different tiers of employees.
-3. Distribute company shares for employees in a "deferred equity incentive plan" automatically.
 
 ## Contract 1 - Associate Splitter Contract
 
