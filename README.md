@@ -2,7 +2,7 @@
 
 ![](Images/SmartContracts_handshake.png)
 
-This code will create an Ethereum-compatible blockchain to be able to build smart contracts. This will enable your company to automate finances for increased transparency and to make accounting and auditing practically automatic!
+This code will create an Ethereum-compatible blockchain to build smart contracts. This will enable your company to automate finances for increased transparency and to make accounting and auditing practically automatic!
 
 I have created 2 'Profit Splitter' contracts designed to:
 
@@ -13,7 +13,7 @@ I have created 2 'Profit Splitter' contracts designed to:
 
 This contract is designed to accept Ether into the contract and divide the Ether evenly among three associate-level employees. This will allow your company's Human Resources department to pay employees quickly and efficiently.
 
-Refer to the AssociateProfitSplitter.sol file for the detailed code.
+Refer to the below screenshots for the detailed code.
 
 When deploying the contract in Remix, deploy the contract to your local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545. See screenshot below with code in Remix and Metamask window open on the right.
 
