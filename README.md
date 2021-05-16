@@ -9,7 +9,7 @@ I have created 2 'Profit Splitter' contracts designed to:
 1. Pay employees quickly and easily.
 2. Distribute profits to different tiers of employees.
 
-## Contract 1 - Associate Splitter Contract
+## Contract 1 - Associate Splitter
 
 This contract is designed to accept Ether into the contract and divide the Ether evenly among three associate-level employees. This will allow your company's Human Resources department to pay employees quickly and efficiently.
 
@@ -25,7 +25,7 @@ Test the deposit function by sending various values. Keep an eye on the employee
 
 <img width="350" alt="deploycontract2" src="https://user-images.githubusercontent.com/74678703/118406896-043fec80-b64c-11eb-8f73-8f2053e2601b.png">
 
-## Contract 2 - Tiered Profit Splitter Contract
+## Contract 2 - Tiered Profit Splitter
 
 This contract will distribute different percentages of incoming Ether to employees at different tiers/levels. For example in this contract, the CEO gets paid 60%, CTO 25%, and Bob the Associate gets 15%.
 
