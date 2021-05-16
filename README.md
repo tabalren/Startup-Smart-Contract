@@ -23,7 +23,7 @@ You will need to fill in the constructor parameters with your designated employe
 
 Test the deposit function by sending various values. Keep an eye on the employee balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-<img width="350" alt="deploycontract2" src="https://user-images.githubusercontent.com/74678703/118406896-043fec80-b64c-11eb-8f73-8f2053e2601b.png">
+<img width="352" alt="Screen Shot 2021-05-16 at 5 05 52 PM" src="https://user-images.githubusercontent.com/74678703/118412628-0c5a5500-b669-11eb-951f-2f7eb4eae5b4.png">
 
 ## Contract 2 - Tiered Profit Splitter
 
