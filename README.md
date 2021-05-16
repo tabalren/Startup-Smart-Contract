@@ -30,7 +30,7 @@ Test the deposit function by sending various values. Keep an eye on the employee
 
 This contract will distribute different percentages of incoming Ether to employees at different tiers/levels. For example in this contract, the CEO gets paid 60%, CTO 25%, and Bob the Associate gets 15%.
 
-Refer to the screenshot below of the solidity code with the environment, contract inputs and MetaMask setup required to execute this tiered profit splitter contract.
+Refer to the screenshot below of the solidity code with the environment, contract inputs and MetaMask setup required to execute the contract.
 
 <img width="1486" alt="contract2" src="https://user-images.githubusercontent.com/74678703/118407586-69491180-b64f-11eb-8e24-d95b5dd7ead2.png">
 
