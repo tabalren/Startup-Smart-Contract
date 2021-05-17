@@ -52,3 +52,22 @@ Ganache balance after depositing 3 ETH (Balance of 83.79 and profits split acros
 <img width="912" alt="Screen Shot 2021-05-17 at 3 39 41 PM" src="https://user-images.githubusercontent.com/74678703/118547515-691c4500-b727-11eb-8f65-e449196565b3.png">
 
 
+## Testnet Addresses 
+
+
+To interact with the Associate Splitter Contract see testnet address below:
+
+https://kovan.etherscan.io/tx/0x6c1d81eecd9c053ed47c0af9d711d0f0d0ecfa43351f02cceb464452cf663d65
+
+![Screen Shot 2021-05-17 at 4 06 27 PM](https://user-images.githubusercontent.com/74678703/118549788-ed6fc780-b729-11eb-87b5-7fc12da7aaea.png)
+
+
+
+
+To interact with the Tiered Profit splitter Contract see testnet address below: 
+
+https://kovan.etherscan.io/tx/0x7ccdd680fc97922bba74c9f73850bd9ff02027bab39bfd2caef48438f79bd259
+
+![Screen Shot 2021-05-17 at 4 09 19 PM](https://user-images.githubusercontent.com/74678703/118550046-45a6c980-b72a-11eb-9520-313f0ab3f2b6.png)
+
+
