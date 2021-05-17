@@ -19,11 +19,21 @@ When deploying the contract in Remix, deploy the contract to your local Ganache 
 
 You will need to fill in the constructor parameters with your designated employee addresses.
 
-![](Images/Contract1.png)
+![Screen Shot 2021-05-17 at 3 52 46 PM](https://user-images.githubusercontent.com/74678703/118548142-f364a900-b727-11eb-9e75-2a41646c5ad4.png)
 
 Test the deposit function by sending various values. Keep an eye on the employee balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-<img width="352" alt="Screen Shot 2021-05-16 at 5 05 52 PM" src="https://user-images.githubusercontent.com/74678703/118412628-0c5a5500-b669-11eb-951f-2f7eb4eae5b4.png">
+
+In testing the deposit function, we can see proof of the transaction taking place looking at the resulting balances in Ganache:
+
+Ganache balance before depositing 3 ETH (Balance of 92.80): 
+
+<img width="940" alt="beforedeposit" src="https://user-images.githubusercontent.com/74678703/118548177-feb7d480-b727-11eb-9568-2b8669b2ee80.png">
+
+Ganache balances after deposting 3 ETH (Balance of 89.80 in main account and profits split across 3 employee addresses):
+
+<img width="928" alt="afterdeposit" src="https://user-images.githubusercontent.com/74678703/118548362-36268100-b728-11eb-8980-03aa34f91153.png">
+
 
 ## Contract 2 - Tiered Profit Splitter
 
@@ -31,5 +41,14 @@ This contract will distribute different percentages of incoming Ether to employe
 
 Refer to the screenshot below of the solidity code with the environment, contract inputs and MetaMask setup required to execute the contract.
 
-<img width="1486" alt="contract2" src="https://user-images.githubusercontent.com/74678703/118407586-69491180-b64f-11eb-8e24-d95b5dd7ead2.png">
+<img width="1619" alt="Screen Shot 2021-05-17 at 3 38 48 PM" src="https://user-images.githubusercontent.com/74678703/118547414-4853ef80-b727-11eb-9219-ec136ce0a4c7.png">
+
+In testing the deposit function, we can see proof of the transaction taking place looking at the resulting balances in Ganache:
+
+Ganache balance before depositing 3 ETH (Balance of 86.79):
+<img width="908" alt="Screen Shot 2021-05-17 at 3 39 05 PM" src="https://user-images.githubusercontent.com/74678703/118547507-66b9eb00-b727-11eb-9f16-6ee6d1cca24a.png">
+
+Ganache balance after depositing 3 ETH (Balance of 83.79 and profits split across 3 tiered employee addresses): 
+<img width="912" alt="Screen Shot 2021-05-17 at 3 39 41 PM" src="https://user-images.githubusercontent.com/74678703/118547515-691c4500-b727-11eb-8f65-e449196565b3.png">
+
 
