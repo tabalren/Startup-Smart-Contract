@@ -55,7 +55,7 @@ Ganache balance after depositing 3 ETH (Balance of 83.79 and profits split acros
 ## Testnet Addresses 
 
 
-To interact with the Associate Splitter Contract see testnet address below:
+1. To interact with the Associate Splitter Contract see testnet address below:
 
 https://kovan.etherscan.io/tx/0x6c1d81eecd9c053ed47c0af9d711d0f0d0ecfa43351f02cceb464452cf663d65
 
@@ -64,7 +64,7 @@ https://kovan.etherscan.io/tx/0x6c1d81eecd9c053ed47c0af9d711d0f0d0ecfa43351f02cc
 
 
 
-To interact with the Tiered Profit splitter Contract see testnet address below: 
+2. To interact with the Tiered Profit splitter Contract see testnet address below: 
 
 https://kovan.etherscan.io/tx/0x7ccdd680fc97922bba74c9f73850bd9ff02027bab39bfd2caef48438f79bd259
 
