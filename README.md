@@ -15,7 +15,7 @@ This contract is designed to accept Ether into the contract and divide the Ether
 
 Refer to the below screenshots for the detailed code.
 
-When deploying the contract in Remix, deploy the contract to your local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545. See screenshot below with code in Remix and Metamask window open on the right.
+When deploying the contract in Remix, deploy the contract to your local Ganache chain by connecting to Injected Web3 and ensuring MetaMask is pointed to localhost:8545. See screenshot below with code in Remix.
 
 You will need to fill in the constructor parameters with your designated employee addresses.
 
